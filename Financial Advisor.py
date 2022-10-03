@@ -7,3 +7,4 @@
 #   For stocks, I will use historical rate of return to give suggestions.
 
 #   calculate rate of return from the suggested package and compare with user expectation
+
