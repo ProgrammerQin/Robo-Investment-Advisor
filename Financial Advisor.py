@@ -8,3 +8,4 @@
 
 #   calculate rate of return from the suggested package and compare with user expectation
 
+Print('string')
