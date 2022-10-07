@@ -8,10 +8,10 @@
 # pip install mplfinance
 
 
-# stock = 'TLSA'
+stock = 'TLSA'
 # stock = 'AAPL'
 # stock = 'AMZN'
-# investment = stock
+investment = stock
 
 
 # foreign_currency = 'EUR/USD'
@@ -21,8 +21,8 @@
 
 
 # digital_currency = 'BTC/USD'
-digital_currency = 'ETH/USD'
-investment = digital_currency
+# digital_currency = 'ETH/USD'
+# investment = digital_currency
 
 
 from twelvedata import TDClient

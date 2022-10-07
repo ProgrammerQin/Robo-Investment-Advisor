@@ -3,7 +3,7 @@
 # Stock has medium Risk
 # Digital Currency has high risk
 
-risk_tolerance_level = 3
+risk_tolerance_level = 2
 
 if risk_tolerance_level == 0:
     Stock_ratio = 10

@@ -10,7 +10,7 @@ import requests
 API_KEY = 'L7xmlCPHedkoWw2PThNVMIAaJVuCRyGO'
 SCRAPER_URL = 'https://api.webscrapingapi.com/v1'
 
-TARGET_URL = 'https://httpbin.org/post'
+TARGET_URL = 'https://www.theglobeandmail.com/investing/markets/funds/RBF460.CF/fundamentals/'
 
 PARAMS = {
     "api_key":API_KEY,
