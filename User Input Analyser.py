@@ -1,5 +1,11 @@
 #   Questionaire 1: Ask Directly
 #   Questionaire 2: Use Generic Algorithm to calculate % rate of Risk
 
-User_risk_level = "medium"
-print("User Risk Level is: ", User_risk_level)
+
+
+def risk_tolerance_level():
+    risk_tolerance_level = float(input("Please provide your Risk Tolerance Level Rate (1-5)\n"))
+# 1-Min    2-Low    3-Medium    4-High    5-Max
+    return risk_tolerance_level
+
+print(risk_tolerance_level())
