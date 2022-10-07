@@ -1,7 +1,8 @@
 # Acquire Data from Alpha Vantage Stock API
-
 # API key: AEGJDU540F597MXQ
 # https://www.alphavantage.co/documentation/
+
+# This API can send HTTPS request to Alphavantage and get stock information
 
 import requests
 

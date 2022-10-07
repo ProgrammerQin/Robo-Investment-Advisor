@@ -1,3 +1,6 @@
+# This API can get a winning recomended investment portfolio from Alphavantage
+# API key: AEGJDU540F597MXQ
+
 import requests
 
 # https://www.alphavantage.co/

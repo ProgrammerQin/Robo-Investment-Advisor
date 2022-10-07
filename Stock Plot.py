@@ -1,5 +1,7 @@
 # https://twelvedata.com/docs#getting-started
 # API key: 13142851cdfe4856bd76e5297106e00b
+# Present Stock Value PLOT
+
 
 # pip install twelvedata
 # pip install matplotlib
